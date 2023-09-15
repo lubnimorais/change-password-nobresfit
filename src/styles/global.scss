@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #24272C;
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-image: url('../assets/bg-image.jpeg');
+  background-position: center top;
+  background-size: cover;
+}
+
+button {
+  cursor: pointer;
+}
